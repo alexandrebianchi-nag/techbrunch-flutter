@@ -51,4 +51,4 @@ Let’s play with Flutter widgets! 🧩
 
 ---
 
-✅ When you’re ready, move on to [`3_layout_exercises`](../3_layout_exercises/README.md)
+✅ When you’re ready, move on to [`3_layout_exercises`](../3_layout_exercises/3_layout_exercises_README.md)

@@ -29,4 +29,4 @@ Welcome to your first Flutter app! 🎉
 
 ---
 
-✅ When you’re ready, move on to the next exercise: [`2_widgets_exercises`](../2_widgets_exercises/README.md)
+✅ When you’re ready, move on to the next exercise: [`2_widgets_exercises`](../2_widgets_exercises/2_widgets_exercises_README.md)
