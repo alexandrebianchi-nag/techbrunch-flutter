@@ -19,7 +19,7 @@ Welcome to your first Flutter app! 🎉
 ## Step 2: Try Hot Reload
 - Change something in `lib/main.dart` (e.g., the text or color).
 - Save the file and press **'r'** in the terminal or click the **Hot Reload** button in your IDE.
-- See your changes instantly!flutter 
+- See your changes instantly!
 
 ## Step 3: Make It Yours
 - Change the title or the counter text.
