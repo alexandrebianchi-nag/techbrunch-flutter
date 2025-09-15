@@ -23,10 +23,9 @@ Let’s play with Flutter widgets! 🧩
 
 ## Exercise
 ### Part 1: Stateless Widget (Greeting)
-- **Modify the existing StatelessWidget greeting** in `lib/main.dart` (e.g., change the text to your name or a custom message).
 - Create a new stateless widget (e.g., `MyCard`).
 - Display a card with a title and an icon.
-- Add your widget to the app’s body, below the greeting.
+- Add your widget to the app’s body, below the title.
 
 ### Part 2: Stateful Widget (Counter)
 - **Add a StatefulWidget with a counter** (e.g., `CounterWidget`).
