@@ -11,30 +11,30 @@ class MyApp extends StatelessWidget {
       title: 'Widgets Playground',
       home: Scaffold(
         appBar: AppBar(title: const Text('Widgets Playground')),
-        body: SingleChildScrollView(
+        body: const SingleChildScrollView(
           child: Padding(
-            padding: const EdgeInsets.all(16.0),
+            padding: EdgeInsets.all(16.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 // TODO: Part 1 - Custom Stateless Widget (MyCard)
                 // Insert your MyCard widget here
-                const Placeholder(fallbackHeight: 80, color: Colors.green),
-                const SizedBox(height: 16),
+                Placeholder(fallbackHeight: 80, color: Colors.green),
+                SizedBox(height: 16),
 
                 // TODO: Part 2 - Stateful Widget (CounterWidget)
                 // Insert your CounterWidget here
-                const Placeholder(fallbackHeight: 80, color: Colors.orange),
-                const SizedBox(height: 16),
+                Placeholder(fallbackHeight: 80, color: Colors.orange),
+                SizedBox(height: 16),
 
                 // TODO: Part 3 - Second Counter (Independent State)
                 // Insert your second CounterWidget or SecondCounterWidget here
-                const Placeholder(fallbackHeight: 80, color: Colors.red),
-                const SizedBox(height: 16),
+                Placeholder(fallbackHeight: 80, color: Colors.red),
+                SizedBox(height: 16),
 
                 // TODO: Bonus - Widget Playground
                 // Add a Column with Text, Icon, Image.network, and a Button here
-                const Placeholder(fallbackHeight: 120, color: Colors.purple),
+                Placeholder(fallbackHeight: 120, color: Colors.purple),
               ],
             ),
           ),

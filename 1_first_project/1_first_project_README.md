@@ -14,7 +14,7 @@ Welcome to your first Flutter app! 🎉
    flutter pub get
    flutter run
    ```
-3. Wait for the app to launch on your emulator or device.
+4. Wait for the app to launch on your emulator or device.
 
 ## Step 2: Try Hot Reload
 - Change something in `lib/main.dart` (e.g., the text or color).
