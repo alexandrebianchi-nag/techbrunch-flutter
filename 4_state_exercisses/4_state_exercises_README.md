@@ -3,6 +3,7 @@
 ## ⚙️ Goals:
 - Build a toggle switch
 - Add live-updating text field
+- Build a simple interactive counter or like button
 
 # 4. State Management Mini-Game
 
@@ -21,14 +22,14 @@ Let’s play with state in Flutter! 🎮
 3. The app will launch with a basic skeleton. Open `lib/main.dart` and follow the TODOs to complete the exercise!
 
 ## Exercise
-Build a simple interactive counter or like button to practice state updates.
+Practice state updates in Flutter by building interactive widgets.
 
 ### Step-by-Step
 1. In `lib/main.dart`, replace the TODO with your stateful widget code.
 2. Add a button (e.g., `ElevatedButton` or `IconButton`).
 3. Display a counter or like icon that updates when pressed.
 4. Add a reset button to set the counter back to zero.
-5. Add a second counter and track both independently.
+5. Add a live-updating text field and display its value as you type.
 6. Show a message when a certain number is reached (e.g., “You reached 10 likes!”).
 
 ### Bonus Fun

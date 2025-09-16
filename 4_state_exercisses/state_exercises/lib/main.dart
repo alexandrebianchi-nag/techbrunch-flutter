@@ -11,7 +11,7 @@ class CounterGame extends StatefulWidget {
 
 class _CounterGameState extends State<CounterGame> {
   // First counter variable
-  // Second counter variable
+  // Variable to hold the text field value
 
   @override
   Widget build(BuildContext context) {
@@ -23,9 +23,9 @@ class _CounterGameState extends State<CounterGame> {
         SizedBox(height: 16),
         // TODO: Add a reset button to set the counter back to zero
         SizedBox(height: 32),
-        // TODO: Add a second counter and track both independently
         SizedBox(height: 16),
         // TODO: Show a message when a certain number is reached (e.g., “You reached 10 likes!”)
+        // TODO: Add a live-updating text field
         // BONUS: Animate the button or counter when pressed
       ],
     );
