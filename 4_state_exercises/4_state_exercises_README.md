@@ -40,4 +40,4 @@ Practice state updates in Flutter by building interactive widgets.
 
 ---
 
-✅ When you’re ready, move on to [`5_navigation_exercises`](../5_navigation_exercises/README.md)
+✅ When you’re ready, move on to [`5_navigation_exercises`](../5_navigation_exercises/5_navigation_exercises_README.md)
