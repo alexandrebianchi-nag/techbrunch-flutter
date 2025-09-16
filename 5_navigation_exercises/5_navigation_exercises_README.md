@@ -38,4 +38,4 @@ Add a second screen and navigate between them.
 
 ---
 
-✅ When you’re ready, move on to [`6_styling_exercises`](../6_styling_exercises/README.md)
+✅ When you’re ready, move on to [`6_styling_exercises`](../6_styling_exercises/6_styling_exercises_README.md)
