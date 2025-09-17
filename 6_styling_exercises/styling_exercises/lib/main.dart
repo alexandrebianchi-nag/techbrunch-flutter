@@ -15,7 +15,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // TODO: Change the primary color
         // TODO: Change the font family (try Google Fonts or a custom font)
-        fontFamily: 'Roboto',
         // TODO: Customize text styles (TextTheme)
       ),
       // TODO: Try enabling dark mode by setting themeMode and customizing darkTheme
@@ -33,10 +32,6 @@ class StylingHomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Styling Exercise'),
         // TODO: Style the AppBar (color, elevation, etc.) using the theme
-        centerTitle: true,
-        elevation: 4,
-        backgroundColor: Theme.of(context).primaryColor,
-        foregroundColor: Colors.white,
       ),
       body: Center(
         child: Column(
